@@ -46,4 +46,3 @@ return 0;
 ## RESULT
 Thus the implementation of interprocess communication using pipe command is successfully executed.
 
-RESULT:
